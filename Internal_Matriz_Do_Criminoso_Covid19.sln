@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criminosa_Matriz_Do_Criminoso_Covid19", "Criminosa_Matriz_Do_Criminoso_Covid19\Criminosa_Matriz_Do_Criminoso_Covid19.csproj", "{C7C2CF0E-B659-4300-9E03-7DB7759A4598}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Do_Criminoso_Covid19", "Criminosa_Matriz_Do_Criminoso_Covid19\Criminosa_Matriz_Do_Criminoso_Covid19.csproj", "{C7C2CF0E-B659-4300-9E03-7DB7759A4598}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
