@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criminosa_Matriz_Do_Criminoso_Chip_2001721017", "Criminosa_Matriz_Do_Criminoso_Chip_2001721017\Criminosa_Matriz_Do_Criminoso_Chip_2001721017.csproj", "{0D380624-5A80-4CFE-BF5E-69F55758155A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Do_Criminoso_Chip_2001721017", "Criminosa_Matriz_Do_Criminoso_Chip_2001721017\Criminosa_Matriz_Do_Criminoso_Chip_2001721017.csproj", "{0D380624-5A80-4CFE-BF5E-69F55758155A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
