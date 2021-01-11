@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Do_Sentimento", "Internal_Matriz_Do_Sentimento\Internal_Matriz_Do_Sentimento.csproj", "{86B2B66D-1EFA-4743-A234-29D0FF4E0166}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Do_Sentir", "Internal_Matriz_Do_Sentimento\Internal_Matriz_Do_Sentimento.csproj", "{86B2B66D-1EFA-4743-A234-29D0FF4E0166}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
