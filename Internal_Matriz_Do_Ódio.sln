@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz_Da_Lógica_Do_Ódio", "Matriz_Do_Ódio\Matriz_Da_Lógica_Do_Ódio.csproj", "{3D152328-4189-4177-8186-6550592EB706}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Da_Lógica_Do_Ódio", "Matriz_Do_Ódio\Matriz_Da_Lógica_Do_Ódio.csproj", "{3D152328-4189-4177-8186-6550592EB706}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
