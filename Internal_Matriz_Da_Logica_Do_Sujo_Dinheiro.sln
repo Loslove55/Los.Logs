@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz_Da_Logica_Do_Sujo_Dinheiro", "Matriz_Da_Logica_Do_Sujo_Dinheiro\Matriz_Da_Logica_Do_Sujo_Dinheiro.csproj", "{6D2AB2A1-D1FE-42F7-B025-2546805EEB3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Da_Logica_Do_Sujo_Dinheiro", "Matriz_Da_Logica_Do_Sujo_Dinheiro\Matriz_Da_Logica_Do_Sujo_Dinheiro.csproj", "{6D2AB2A1-D1FE-42F7-B025-2546805EEB3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
