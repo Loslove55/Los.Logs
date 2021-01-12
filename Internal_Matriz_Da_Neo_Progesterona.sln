@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Da_Neo_Progesterona", "Internal_Matriz_Da_Neo_Progesterona\Internal_Matriz_Da_Neo_Progesterona.csproj", "{37F6D892-DFE5-4E78-8F1D-22693B441EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F6D892-DFE5-4E78-8F1D-22693B441EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F6D892-DFE5-4E78-8F1D-22693B441EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F6D892-DFE5-4E78-8F1D-22693B441EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F6D892-DFE5-4E78-8F1D-22693B441EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB9B7F3-874E-4CA7-9D42-E110E0C771B8}
+	EndGlobalSection
+EndGlobal
