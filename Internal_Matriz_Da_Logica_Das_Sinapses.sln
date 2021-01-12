@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matriz_Das_Logicas_Das_Sinapses", "Matriz_Da_Logica_Das_Sinapses\Matriz_Das_Logicas_Das_Sinapses.csproj", "{FDD3FD26-C5A0-4198-8534-CF02107E46BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Internal_Matriz_Das_Logicas_Das_Sinapses", "Matriz_Da_Logica_Das_Sinapses\Matriz_Das_Logicas_Das_Sinapses.csproj", "{FDD3FD26-C5A0-4198-8534-CF02107E46BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
