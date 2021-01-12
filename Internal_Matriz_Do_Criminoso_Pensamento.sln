@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Da_Criminoso_Pensamento", "Internal_Matriz_Da_Criminoso_Pensamento\Internal_Matriz_Da_Criminoso_Pensamento.csproj", "{9837127F-85FB-4677-90D9-28DA69453EE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Do_Criminoso_Pensamento", "Internal_Matriz_Da_Criminoso_Pensamento\Internal_Matriz_Da_Criminoso_Pensamento.csproj", "{9837127F-85FB-4677-90D9-28DA69453EE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
