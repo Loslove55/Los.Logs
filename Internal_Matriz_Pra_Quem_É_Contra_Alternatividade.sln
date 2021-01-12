@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Pra_Quem_É_Contra_Alternatividade", "Internal_Matriz_Pra_Quem_É_Contra_Alternatividade\Internal_Matriz_Pra_Quem_É_Contra_Alternatividade.csproj", "{8B04A8E3-5919-4EBD-8024-35CD1253D4B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B04A8E3-5919-4EBD-8024-35CD1253D4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B04A8E3-5919-4EBD-8024-35CD1253D4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B04A8E3-5919-4EBD-8024-35CD1253D4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B04A8E3-5919-4EBD-8024-35CD1253D4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A57B50D2-D62B-43D0-88D3-182EF00292F2}
+	EndGlobalSection
+EndGlobal
