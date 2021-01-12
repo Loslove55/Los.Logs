@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Da_Criminal_Triangulia_Dedal", "Internal_Matriz_Da_Triangulia_Dedal\Internal_Matriz_Da_Criminal_Triangulia_Dedal.csproj", "{C08BB762-769E-4EF2-B8CD-5DA5B6C76126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C08BB762-769E-4EF2-B8CD-5DA5B6C76126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08BB762-769E-4EF2-B8CD-5DA5B6C76126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08BB762-769E-4EF2-B8CD-5DA5B6C76126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08BB762-769E-4EF2-B8CD-5DA5B6C76126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03549F8C-AC54-4314-9056-2CF48AABC49D}
+	EndGlobalSection
+EndGlobal
