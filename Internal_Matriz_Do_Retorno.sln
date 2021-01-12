@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Do_Retorno", "Internal_Matriz_Do_Retorno\Internal_Matriz_Do_Retorno.csproj", "{D038A154-D5BD-48CA-9ADC-A5574007EDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D038A154-D5BD-48CA-9ADC-A5574007EDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D038A154-D5BD-48CA-9ADC-A5574007EDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D038A154-D5BD-48CA-9ADC-A5574007EDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D038A154-D5BD-48CA-9ADC-A5574007EDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDEC57D5-4648-455D-8094-9091CEE2FB83}
+	EndGlobalSection
+EndGlobal
