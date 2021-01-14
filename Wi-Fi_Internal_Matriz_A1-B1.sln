@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wi-Fi_Internal_Matriz_A1-B1", "Wi-Fi_Internal_Matriz_A1-B1\Wi-Fi_Internal_Matriz_A1-B1.csproj", "{AA8BD264-0492-419D-A77C-49A996E2EBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8BD264-0492-419D-A77C-49A996E2EBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8BD264-0492-419D-A77C-49A996E2EBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8BD264-0492-419D-A77C-49A996E2EBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8BD264-0492-419D-A77C-49A996E2EBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {489B0DC6-AFE4-4C2E-A834-7AB5F672A392}
+	EndGlobalSection
+EndGlobal
