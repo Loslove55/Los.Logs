@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Da_Redução_Sonora", "Internal_Matriz_Da_Redução_Sonora\Internal_Matriz_Da_Redução_Sonora.csproj", "{510A0C2A-FC69-42E4-BFF6-E31535E81182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{510A0C2A-FC69-42E4-BFF6-E31535E81182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510A0C2A-FC69-42E4-BFF6-E31535E81182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510A0C2A-FC69-42E4-BFF6-E31535E81182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510A0C2A-FC69-42E4-BFF6-E31535E81182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50AEAF10-28C2-414C-A5CE-E95A29F6A925}
+	EndGlobalSection
+EndGlobal
