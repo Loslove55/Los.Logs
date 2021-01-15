@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Do_Criminal_Humano_Corpo", "Internal_Matriz_Do_Criminal_Humano_Corpo\Internal_Matriz_Do_Criminal_Humano_Corpo.csproj", "{07771176-EC70-45E8-A321-A4E8F5BA58B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wi_Fi_Internal_Matriz_Do_Criminal_Humano_Corpo", "Internal_Matriz_Do_Criminal_Humano_Corpo\Internal_Matriz_Do_Criminal_Humano_Corpo.csproj", "{07771176-EC70-45E8-A321-A4E8F5BA58B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
