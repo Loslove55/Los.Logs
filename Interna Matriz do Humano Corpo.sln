@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Internal_Matriz do Humano Corpo", "Matriz do Humano Corpo\Internal_Matriz do Humano Corpo.csproj", "{A29F95F0-F59D-423D-A6E1-16A8F66B0A58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wi_Fi_Internal_Matriz do Humano Corpo", "Matriz do Humano Corpo\Internal_Matriz do Humano Corpo.csproj", "{A29F95F0-F59D-423D-A6E1-16A8F66B0A58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
