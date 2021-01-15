@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal Matriz Do Chi", "Internal Matriz Do Chi\Internal Matriz Do Chi.csproj", "{3E62ED64-5F13-4B25-9701-CEB522706335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E62ED64-5F13-4B25-9701-CEB522706335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E62ED64-5F13-4B25-9701-CEB522706335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E62ED64-5F13-4B25-9701-CEB522706335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E62ED64-5F13-4B25-9701-CEB522706335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76178C80-8E0B-44CF-9E0A-0B92A9BCEEAF}
+	EndGlobalSection
+EndGlobal
