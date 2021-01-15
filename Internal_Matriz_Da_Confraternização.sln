@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_Matriz_Da_Confraternização", "Internal_Matriz_Da_Confraternização\Internal_Matriz_Da_Confraternização.csproj", "{FE17F7CB-CE18-4918-ABF6-DCE7E38C04E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE17F7CB-CE18-4918-ABF6-DCE7E38C04E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE17F7CB-CE18-4918-ABF6-DCE7E38C04E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE17F7CB-CE18-4918-ABF6-DCE7E38C04E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE17F7CB-CE18-4918-ABF6-DCE7E38C04E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C6B5EE-B8F5-4A70-9C13-17238FA6D63F}
+	EndGlobalSection
+EndGlobal
