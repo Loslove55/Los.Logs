@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wi-Fi_Internal_Criminal_Matriz_Da_Margem_De_Erro", "Wi-Fi_Internal_Matriz_Da_Margem_De_Erro\Wi-Fi_Internal_Criminal_Matriz_Da_Margem_De_Erro.csproj", "{8B0F3BB7-76E4-4317-A73B-5EDFF9F1DEE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wi-Fi_Internal_Matriz_Da_Margem_De_Erro", "Wi-Fi_Internal_Matriz_Da_Margem_De_Erro\Wi-Fi_Internal_Matriz_Da_Margem_De_Erro.csproj", "{8B0F3BB7-76E4-4317-A73B-5EDFF9F1DEE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
