@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matriz_Da_Criminosa_Margem_De_Erro", "Criminosa_Matriz_Da_Criminosa_Margem_De_Erro\Matriz_Da_Criminosa_Margem_De_Erro.csproj", "{AF13BC9C-D362-43FE-8F0C-5793EC5DCF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF13BC9C-D362-43FE-8F0C-5793EC5DCF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF13BC9C-D362-43FE-8F0C-5793EC5DCF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF13BC9C-D362-43FE-8F0C-5793EC5DCF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF13BC9C-D362-43FE-8F0C-5793EC5DCF39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9F4A0DD-4773-42DF-A7AB-97FC9B52C7A4}
+	EndGlobalSection
+EndGlobal
