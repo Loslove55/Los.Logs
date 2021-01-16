@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wi_Fi_Internal_Matriz_Da_Criminal_Mídia", "Wi_Fi_Internal_Matriz_Da_Criminal_Mídia\Wi_Fi_Internal_Matriz_Da_Criminal_Mídia.csproj", "{5650C9F2-B8B0-426F-A4ED-FC70BAA6B421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5650C9F2-B8B0-426F-A4ED-FC70BAA6B421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5650C9F2-B8B0-426F-A4ED-FC70BAA6B421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5650C9F2-B8B0-426F-A4ED-FC70BAA6B421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5650C9F2-B8B0-426F-A4ED-FC70BAA6B421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DCA1371-351F-46F5-AE79-F151F9AD7395}
+	EndGlobalSection
+EndGlobal
