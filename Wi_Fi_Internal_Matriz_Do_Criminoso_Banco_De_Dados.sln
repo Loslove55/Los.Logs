@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wi_Fi_Internal_Matriz_Do_Criminoso_Banco_De_Dados", "Wi_Fi_Internal_Matriz_Do_Criminoso_Banco_De_Dados\Wi_Fi_Internal_Matriz_Do_Criminoso_Banco_De_Dados.csproj", "{32C6C492-33BE-47B9-896E-4EC1C1CE1B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C6C492-33BE-47B9-896E-4EC1C1CE1B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C6C492-33BE-47B9-896E-4EC1C1CE1B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C6C492-33BE-47B9-896E-4EC1C1CE1B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C6C492-33BE-47B9-896E-4EC1C1CE1B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3824F969-5238-4369-BD72-C4B582EC137B}
+	EndGlobalSection
+EndGlobal
